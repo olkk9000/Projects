@@ -1,4 +1,4 @@
-# OliviaKantorProjects
+# Projects
 
 Thanks for visiting my GitHub Repo. Feel free to explore some of my projects:
 - **Analyzing SAT and High School Data**: This data exploration and cleaning project looks at patterns in New York City Public School data and SAT scores.
